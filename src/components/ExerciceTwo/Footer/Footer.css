@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 30px;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+}
+
+.footerModalContent button:not(:last-child) {
+    margin-right: 5px;
+}

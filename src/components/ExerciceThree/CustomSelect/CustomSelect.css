@@ -1,0 +1,39 @@
+.SearchSelect {
+    width: 300px;
+    position: relative;
+}
+
+.SearchSelect input {
+    width: 100%;
+    border: 1px solid lightgray;
+    outline: none;
+    padding: 10px;
+}
+
+.SearchSelect ul {
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid lightgray;
+    border-top: none;
+    left: 0;
+    right: 0;
+}
+
+.SearchSelect ul:not(.NoResults)>li {
+    cursor: pointer;
+}
+
+.SearchSelect ul>li {
+    padding: 10px;
+    color: gray;
+}
+
+.SearchSelect ul:not(.NoResults)>li:hover {
+    background-color: #f4f4f4;
+}
+
+.SearchSelectListItem>span {
+    color: black;
+}
