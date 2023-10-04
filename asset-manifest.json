@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lvl3-global/static/css/main.7225df1a.css",
+    "main.js": "/react-lvl3-global/static/js/main.f81eba4a.js",
+    "static/js/787.af3e7659.chunk.js": "/react-lvl3-global/static/js/787.af3e7659.chunk.js",
+    "index.html": "/react-lvl3-global/index.html",
+    "main.7225df1a.css.map": "/react-lvl3-global/static/css/main.7225df1a.css.map",
+    "main.f81eba4a.js.map": "/react-lvl3-global/static/js/main.f81eba4a.js.map",
+    "787.af3e7659.chunk.js.map": "/react-lvl3-global/static/js/787.af3e7659.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7225df1a.css",
+    "static/js/main.f81eba4a.js"
+  ]
+}
